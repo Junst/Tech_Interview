@@ -35,7 +35,7 @@ Tech Interview
 
 ## 👉 인공지능 면접
 
-- [1️⃣ **CNN**](/AI/1_CNN.md)
-- [2️⃣ **NLP**](/AI/2_NLP.md)
+- [1️⃣ **CNN**](/AI/CNN.md)
+- [2️⃣ **NLP**](/AI/NLP.md)
 
 
