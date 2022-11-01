@@ -37,5 +37,5 @@ Tech Interview
 
 - [1️⃣ **CNN**](/AI/CNN.md)
 - [2️⃣ **NLP**](/AI/NLP.md) (x)
-
+- [3️⃣ **Statistic**](/AI/Statistic.md)
 
