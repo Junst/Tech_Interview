@@ -41,3 +41,11 @@ Tech Interview
 - [2️⃣ **NLP**](/AI/NLP.md) (x)
 - [3️⃣ **Statistic**](/AI/Statistic.md)
 
+
+
+<br>
+
+## 👉 수학 면접
+
+- [1️⃣ *Llinear Algebra**](/MATH/LinearAlgebra.md)
+
