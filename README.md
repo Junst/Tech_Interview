@@ -5,6 +5,8 @@ Tech Interview
 
 ```
 💁‍♀️  인턴 데뷔를 위해 받았던 질문 모음 (2021.12.ver)
+💁‍♀️  대학원생 데뷔를 위해 준비했던 질문 모음 (2022.11.ver)
+
 ```
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Notion%EC%97%90%EC%84%9C%20%EB%B3%B4%EA%B8%B0-000000?style=plastic&logo=Notion&logoColor=white"/></a>
