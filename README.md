@@ -17,7 +17,7 @@ Tech Interview
 - <a href="/CS/CPP.md"><img width="15px" src="/image/cpp.png"/> <b>C++</b></a> (x)
 - <a href="/CS/JAVA.md"><img width="15px" src="/image/java.png"/> <b>JAVA</b></a> (x)
 - <a href="/CS/Kotlin.md"><img width="15px" src="/image/kotlin.svg"/> <b>Kotlin</b></a> (x)
-- <a href="/CS/Algorithm.md"><img width="15px" src="/image/algorithm.png"/> <b>Algorithm</b></a> (x)
+- <a href="/CS/Algorithm.md"><img width="15px" src="/image/algorithm.png"/> <b>Algorithm</b></a>
 - <a href="/CS/DataStructure.md"><img width="15px" src="/image/datastructure.png"/> <b>Data Structrue</b></a>
 - <a href="/CS/Database.md"><img width="15px" src="/image/database.png"/> <b>Database</b></a> (x)
 - <a href="/CS/Network.md"><img width="15px" src="/image/network.png"/> <b>Network</b></a> (x)
