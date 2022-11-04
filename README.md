@@ -47,5 +47,5 @@ Tech Interview
 
 ## 👉 수학 면접
 
-- [1️⃣ *Llinear Algebra**](/MATH/LinearAlgebra.md)
+- [1️⃣ **Llinear Algebra**](/MATH/LinearAlgebra.md)
 
